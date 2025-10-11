@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with [ GO EV Website]()
 
-- 👨‍💻 All of my projects are available at [panhaphin.ebmcambodia.com](panhaphin.ebmcambodia.com)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Software developer**
 
 - 📫 How to reach me **sopanhaphin18@gmail.com**
 
-- 📄 Know about my experiences [panhaphin.ebmcambodia.com](panhaphin.ebmcambodia.com)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am developer**
 
