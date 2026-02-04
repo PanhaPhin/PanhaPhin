@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panhaphin" alt="panhaphin" /></a> </p>
 
-- 🔭 I’m currently working on [EBM Web Page](https://ebmcambodia.com/)
+- 🔭 I’m currently working on [vattanacbank](https://www.vattanacbank.com/)
 
-- 🌱 I’m currently learning **Software developer , IT**
+- 🌱 I’m currently learning **Software Developer , IT**
 
-- 👯 I’m looking to collaborate on [Recruitment Web Page](https://recruitment.ebmcambodia.com/)
+- 👯 I’m looking to collaborate on []()
 
-- 🤝 I’m looking for help with [ GO EV Website]()
+- 🤝 I’m looking for help with [ GO EV Khmer](https://goevkhmer.com/)
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [EBM Cambodia-Web](https://ebmcambodia.com/)
 
 - 💬 Ask me about **Software developer**
 
