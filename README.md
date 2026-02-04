@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [ GO EV Khmer](https://goevkhmer.com/)
 
-- 👨‍💻 All of my projects are available at [EBM Cambodia-Web](https://ebmcambodia.com/),  [goev](https://goevkhmer.com/),  [MobileApp](https://apps.apple.com/kh/app/goev-recharge/id6742324956)
+- 👨‍💻 All of my projects are available at [EBM Cambodia-Web](https://ebmcambodia.com/),  [GOEV-WEB](https://goevkhmer.com/),  [MobileApp](https://apps.apple.com/kh/app/goev-recharge/id6742324956)
 
 - 💬 Ask me about **Software developer**
 
