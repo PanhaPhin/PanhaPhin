@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Software developer**
 
-- 📫 How to reach me **sopanhaphin18@gmail.com**
+- 📫 How to reach me **sopanha683@gmail.com**
 
 - 📄 Know about my experiences 
 
